@@ -6,7 +6,7 @@ This project focuses on applying ML algorithms to real-world agricultural proble
 
 ---
 
-#🚧 Project Status
+# 🚧 Project Status
 
 This project is actively under development.
 
